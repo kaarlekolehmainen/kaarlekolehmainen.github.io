@@ -7,10 +7,10 @@ background: black;
 color: #ffffff;
 border: 2px solid rgb(255, 0, 0);
 }
-h2.bordered {
+h2 {
 border: 1px solid black;
 }
-h2.dashed-border {
+h2{
 border-width: 1px;
 border-style: dashed;
 border-color: red;
