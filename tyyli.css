@@ -7,3 +7,11 @@ background: black;
 color: #ffffff;
 border: 2px solid rgb(255, 0, 0);
 }
+h2.bordered {
+border: 1px solid black;
+}
+.dashed-border {
+border-width: 1px;
+border-style: dashed;
+border-color: red;
+}
