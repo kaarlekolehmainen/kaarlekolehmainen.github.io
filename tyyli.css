@@ -15,5 +15,5 @@ border-width: 1px;
 border-style: dashed;
 border-color: red;
 }
-p { border: 1px solid red; padding: 5px; backround-color green;
+p { border: 1px solid red; padding: 5px; backround-color: rgb(0, 255, 0);
 }
